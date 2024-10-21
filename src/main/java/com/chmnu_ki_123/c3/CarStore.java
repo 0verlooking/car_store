@@ -34,6 +34,6 @@ public class CarStore {
                 foundCars.add(car);
             }
         }
-        return foundCars; // Повертаємо знайдені автомобілі
+        return foundCars;
     }
 }
